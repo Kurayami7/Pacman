@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+C:\Users\Arief\eclipse-workspace\Pacman\src\pacman\.metadata\.plugins\org.eclipse.jdt.core
