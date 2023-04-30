@@ -8,6 +8,9 @@ The game is a classic arcade-style game called "Pac-Man".
  the ghosts. The ghosts move randomly around the maze, but they will chase Pac-Man if he gets too close
  
  The controls are as follows:
+ 
 Arrow keys for directional movement.
+
 Esc key for quitting the level and moving to the main menu.
+
 Space key for starting the game.
