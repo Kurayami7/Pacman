@@ -14,3 +14,6 @@ Arrow keys for directional movement.
 Esc key for quitting the level and moving to the main menu.
 
 Space key for starting the game.
+
+# Video Gameplay Demo:
+https://github.com/Kurayami7/Pacman/assets/124408792/e338186c-8b8b-4d99-899c-79ee81da0332
